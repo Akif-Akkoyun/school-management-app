@@ -1,0 +1,45 @@
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.exe
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.deps.json
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.json
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.dev.json
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfoInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfo.cs
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.csproj.CoreCompileInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\refint\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.genruntimeconfig.cache
+C:\Users\akifa\OneDrive\Masaüstü\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\ref\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.exe
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.deps.json
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.json
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.dev.json
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfoInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfo.cs
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.csproj.CoreCompileInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\refint\OkulYonetimUygulmasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.genruntimeconfig.cache
+C:\Users\akifa\OneDrive\Masaüstü\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\ref\OkulYonetimUygulmasi.dll
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.exe
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.deps.json
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.json
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.dev.json
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfoInputs.cache
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfo.cs
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.csproj.CoreCompileInputs.cache
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\refint\OkulYonetimUygulmasi.dll
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.genruntimeconfig.cache
+C:\Users\akifa\Desktop\Bizim OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\ref\OkulYonetimUygulmasi.dll
